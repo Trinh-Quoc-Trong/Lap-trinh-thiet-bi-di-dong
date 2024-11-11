@@ -1,0 +1,43 @@
+Câu 1: Hãy cho biết các nền tảng cho thiết bị di động thông minh
+hiện nay? Với mỗi nền tảng hãy cho biết đặc điểm, ưu và khuyết
+điểm.
+trả lời:
+- có ba nền tảng chính cho thiết bị di động thông minh: Android, iOS, và HarmonyOS.
+    - Android
+        - Đặc điểm: Android là hệ điều hành mã nguồn mở do Google phát triển. Nó được sử dụng rộng rãi trên nhiều thương hiệu thiết bị, bao gồm Samsung, Xiaomi, Oppo, Sony, v.v. Hệ điều hành này có tính tùy biến cao và kho ứng dụng Google Play phong phú.
+        - Ưu điểm:
+            Tính tùy biến: Cho phép người dùng thay đổi giao diện, widget, và cài đặt ứng dụng bên thứ ba dễ dàng.
+            Phổ biến và đa dạng thiết bị: Có nhiều lựa chọn từ giá rẻ đến cao cấp.
+            Hỗ trợ rộng rãi cho ứng dụng bên thứ ba: Khả năng truy cập và cài đặt ứng dụng từ nhiều nguồn khác nhau.
+        - Khuyết điểm:
+            Phân mảnh phiên bản: Có nhiều phiên bản Android khác nhau đang hoạt động, gây khó khăn cho việc cập nhật bảo mật và tính năng mới.
+            Bảo mật: Vì tính mở và khả năng cài đặt ứng dụng từ bên ngoài Google Play, nguy cơ bị phần mềm độc hại cao hơn.
+            Quảng cáo và bloatware: Một số nhà sản xuất cài đặt sẵn nhiều ứng dụng không cần thiết hoặc quảng cáo, làm giảm trải nghiệm người dùng.
+    - iOS
+        - Đặc điểm: iOS là hệ điều hành độc quyền của Apple, được dùng trên các thiết bị như iPhone, iPad và iPod Touch. iOS được biết đến với độ ổn định và bảo mật cao cùng hệ sinh thái Apple đồng bộ.
+        - Ưu điểm:
+            - Bảo mật và quyền riêng tư: Apple nổi tiếng về bảo vệ quyền riêng tư của người dùng và kiểm duyệt chặt chẽ các ứng dụng trong App Store.
+            - Tích hợp hệ sinh thái Apple: iOS hoạt động rất tốt với các sản phẩm Apple khác như MacBook, Apple Watch và iPad.
+            - Hiệu suất ổn định: iOS được tối ưu hóa cho phần cứng của Apple, mang lại hiệu suất mượt mà và ổn định.
+        - Khuyết điểm:
+            - Ít tùy biến: Người dùng không có nhiều tùy chọn để thay đổi giao diện và cài đặt.
+            - Giá thành cao: Thiết bị iOS thường có giá cao, gây khó khăn cho những người có ngân sách thấp.
+            - Hạn chế ứng dụng bên ngoài: Chỉ có thể cài đặt ứng dụng qua App Store, hạn chế tùy chọn ứng dụng từ bên thứ ba.
+    - HarmonyOS
+        - Đặc điểm: HarmonyOS là hệ điều hành do Huawei phát triển, hiện đang được sử dụng trên các thiết bị Huawei và một số thiết bị khác. Đây là một nền tảng đang phát triển và có khả năng hoạt động trên nhiều thiết bị như smartphone, TV và các thiết bị IoT.
+        - Ưu điểm:
+            - Đa thiết bị và tích hợp IoT: HarmonyOS được thiết kế để kết nối và tương tác dễ dàng với các thiết bị khác trong hệ sinh thái của Huawei.
+            - Hiệu năng ổn định trên các thiết bị Huawei: HarmonyOS được tối ưu hóa để hoạt động tốt với phần cứng Huawei.
+            - Không phụ thuộc vào Google: Đây là lợi thế lớn của HarmonyOS sau khi Huawei bị hạn chế quyền truy cập vào các dịch vụ của Google.
+        - Khuyết điểm:
+            - Kho ứng dụng hạn chế: AppGallery của Huawei không đa dạng và phong phú như Google Play hoặc App Store.
+            - Hạn chế về cộng đồng phát triển: Số lượng nhà phát triển và ứng dụng trên HarmonyOS còn hạn chế so với Android và iOS.
+            - Chưa phổ biến rộng rãi: Chỉ có một số lượng nhỏ thiết bị sử dụng HarmonyOS, nên người dùng không có nhiều lựa chọn thiết bị.
+Câu 2: Liệt kê các nền tảng phát triển ứng dụng di động phổ biến
+hiện nay và so sánh sự khác biệt chính giữa chúng.
+Câu 3: Điều gì làm cho Flutter trở thành một lựa chọn phổ biến
+cho việc phát triển ứng dụng đa nền tảng? So sánh với các nền tảng
+khác như React Native và Xamarin.
+Câu 4: Liệt kê các ngôn ngữ lập trình chính được sử dụng để phát
+triển ứng dụng trên Android và giải thích tại sao chúng lại được
+chọn.
