@@ -1,6 +1,8 @@
-Câu 1: Hãy cho biết các nền tảng cho thiết bị di động thông minh
-hiện nay? Với mỗi nền tảng hãy cho biết đặc điểm, ưu và khuyết
-điểm.
+﻿Trịnh Quốc Trọng 2180608444 21DTHD5
+
+Bài Tập 1:
+
+Câu 1: Hãy cho biết các nền tảng cho thiết bị di động thông minh hiện nay? Với mỗi nền tảng hãy cho biết đặc điểm, ưu và khuyết điểm.
 trả lời:
 - có ba nền tảng chính cho thiết bị di động thông minh: Android, iOS, và HarmonyOS.
     - Android
@@ -33,11 +35,46 @@ trả lời:
             - Kho ứng dụng hạn chế: AppGallery của Huawei không đa dạng và phong phú như Google Play hoặc App Store.
             - Hạn chế về cộng đồng phát triển: Số lượng nhà phát triển và ứng dụng trên HarmonyOS còn hạn chế so với Android và iOS.
             - Chưa phổ biến rộng rãi: Chỉ có một số lượng nhỏ thiết bị sử dụng HarmonyOS, nên người dùng không có nhiều lựa chọn thiết bị.
-Câu 2: Liệt kê các nền tảng phát triển ứng dụng di động phổ biến
-hiện nay và so sánh sự khác biệt chính giữa chúng.
-Câu 3: Điều gì làm cho Flutter trở thành một lựa chọn phổ biến
-cho việc phát triển ứng dụng đa nền tảng? So sánh với các nền tảng
-khác như React Native và Xamarin.
-Câu 4: Liệt kê các ngôn ngữ lập trình chính được sử dụng để phát
-triển ứng dụng trên Android và giải thích tại sao chúng lại được
-chọn.
+Câu 2: Liệt kê các nền tảng phát triển ứng dụng di động phổ biến hiện nay và so sánh sự khác biệt chính giữa chúng.
+Đặc điểmNative (Android/iOS)React NativeFlutterXamarinIonicNgôn ngữ lập trìnhJava, Kotlin, SwiftJavaScriptDartC#HTML, CSS, JSHiệu suấtTốt nhấtTốtGần bằng NativeTrung bìnhThấpCross-platformKhôngCóCóCóCóKhả năng truy cập APITốt nhấtTốtTốtTốtHạn chếCộng đồngLớnLớnĐang phát triểnTrung bìnhLớnGiao diện người dùngTốt nhấtGần giống NativeĐẹp và tùy chỉnhGần giống NativeCảm giác webThời gian phát triểnLâu hơnNhanh hơnNhanh hơnTrung bìnhNhanh hơn
+Câu 3: Điều gì làm cho Flutter trở thành một lựa chọn phổ biến cho việc phát triển ứng dụng đa nền tảng? So sánh với các nền tảng khác như React Native và Xamarin.
+- Flutter trở thành lựa chọn phổ biến nhờ vào hiệu suất cao, giao diện đồng nhất trên các nền tảng và công cụ phát triển mạnh mẽ. So với các nền tảng khác:
+
+- Flutter: Sử dụng Dart, mang lại hiệu suất gần như native, hỗ trợ Android, iOS, web và desktop, giao diện dễ tùy chỉnh, cộng đồng mạnh mẽ.
+- React Native: Dùng JavaScript, có cộng đồng lớn, nhưng hiệu suất không tốt bằng Flutter do cần "bridge" giữa mã gốc và JavaScript.
+- Xamarin: Dùng C#, hiệu suất tốt và dễ duy trì trong môi trường .NET, nhưng không linh hoạt như Flutter và không hỗ trợ web mạnh mẽ.
+Câu 4: Liệt kê các ngôn ngữ lập trình chính được sử dụng để phát triển ứng dụng trên Android và giải thích tại sao chúng lại được chọn.
+- Các ngôn ngữ lập trình chính cho phát triển ứng dụng Android:
+- Java: Ngôn ngữ truyền thống, phổ biến, hỗ trợ mạnh mẽ từ Google và nhiều thư viện Android.
+- Kotlin: Ngôn ngữ chính thức của Android, cú pháp hiện đại, an toàn, tương thích với Java.
+- C++: Dùng trong các ứng dụng yêu cầu hiệu suất cao (game, xử lý đồ họa) qua NDK.
+- Dart (với Flutter): Ngôn ngữ cho ứng dụng đa nền tảng, hiệu suất cao, tiết kiệm thời gian phát triển.
+- Python: Dùng qua Kivy hoặc BeeWare, ít phổ biến nhưng có thể phát triển ứng dụng đơn giản.
+Câu 5: Liệt kê các ngôn ngữ lập trình chính được sử dụng để phát triển ứng dụng trên iOS.
+Các ngôn ngữ lập trình chính để phát triển ứng dụng iOS:
+- Swift: Ngôn ngữ chính thức của Apple, nhanh chóng, an toàn và dễ học.
+- Objective-C: Ngôn ngữ cũ, hỗ trợ mạnh mẽ từ Apple, nhưng cú pháp phức tạp hơn Swift.
+- C++: Được sử dụng cho các phần mã yêu cầu hiệu suất cao.
+- Python: Dùng qua framework như Kivy hoặc BeeWare, ít phổ biến cho iOS.
+Câu 6: Hãy thảo luận về những thách thức mà Windows Phone đã phải đối mặt và nguyên nhân dẫn đến sự sụt giảm thị phần của nó.
+Windows Phone đối mặt với các thách thức chính sau:
+- Ứng dụng hạn chế: Windows Phone thiếu nhiều ứng dụng phổ biến, điều này làm giảm sức hấp dẫn đối với người dùng.
+- Chậm đổi mới: Hệ điều hành phát triển chậm so với iOS và Android, không bắt kịp xu hướng công nghệ mới.
+- Thiếu hỗ trợ từ nhà phát triển: Các nhà phát triển không đầu tư vào Windows Phone vì thị phần thấp, tạo ra vòng luẩn quẩn.
+- Cạnh tranh mạnh mẽ: Android và iOS chiếm ưu thế lớn, khiến Windows Phone khó cạnh tranh.
+- Chính sách của Microsoft: Việc chuyển từ Windows Mobile sang Windows Phone và sau đó ngừng hỗ trợ khiến người dùng và nhà phát triển mất niềm tin.
+Câu 7: Khám phá các ngôn ngữ và công cụ để phát triển ứng dụng web trên thiết bị di động.
+Các ngôn ngữ và công cụ để phát triển ứng dụng web trên thiết bị di động:
+- HTML5, CSS3, JavaScript: Ba công nghệ cơ bản để xây dựng ứng dụng web di động, giúp tạo giao diện và tương tác.
+- React Native: Framework JavaScript cho phép phát triển ứng dụng di động với mã nguồn chung cho cả iOS và Android.
+- Vue.js: Framework JavaScript nhẹ và dễ học, phù hợp cho việc phát triển ứng dụng web di động.
+- Angular: Framework mạnh mẽ của Google, hỗ trợ phát triển ứng dụng web di động phức tạp.
+- Ionic: Framework phát triển ứng dụng di động bằng cách sử dụng HTML, CSS, và JavaScript, dễ dàng xây dựng ứng dụng đa nền tảng.
+- Flutter (với Dart): Framework của Google cho ứng dụng đa nền tảng, hỗ trợ cả web và di động.
+Câu 8: Nghiên cứu về nhu cầu nguồn nhân lực lập trình viên trên thiết bị di động hiện nay và những kỹ năng được yêu cầu nhiều nhất.
+Các kỹ năng được yêu cầu nhiều nhất gồm:
+- Kỹ năng lập trình: Thành thạo với các ngôn ngữ như Java, Kotlin (cho Android), Swift (cho iOS), và Dart (Flutter).
+- Kiến thức về Frameworks: Flutter, React Native, Xamarin.
+- Hiểu biết về API và backend: Khả năng kết nối và tích hợp với các dịch vụ backend.
+- Kinh nghiệm với UI/UX: Thiết kế giao diện người dùng mượt mà, tối ưu hóa trải nghiệm người dùng.
+- Kỹ năng bảo mật: Đảm bảo bảo mật cho ứng dụng di động.
